@@ -1,4 +1,4 @@
-//Java Assignment 3.2
+//Java Assignment 3.1
 public class Test {
 	static{
 		print(10);
