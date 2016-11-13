@@ -1,3 +1,4 @@
+//Java Assignment 3.2
 public class Test {
 	static{
 		print(10);
